@@ -1,0 +1,24 @@
+//
+//  ProvinceInfo.pch
+//  ProvinceInfo
+//
+//  Created by weijieMac on 2017/9/15.
+//  Copyright © 2017年 Mac. All rights reserved.
+//
+
+#ifndef ProvinceInfo_pch
+#define ProvinceInfo_pch
+
+#import "AFNetworking.h"
+#import "MJExtension.h"
+#import "ProvinceInfoAPI.h"
+#import "Defines.h"
+#import "MJRefresh.h"
+#import "UIImageView+WebCache.h"
+#import "SVProgressHUD.h"
+#import "NSObject+LCAFRequest.h"
+#import "SDAutoLayout.h"
+#import "MainViewLogic.h"
+#import "PI_RootVC.h"
+
+#endif /* ProvinceInfo_pch */
