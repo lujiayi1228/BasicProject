@@ -21,7 +21,7 @@
 /**
  *  @brief 自定义tabbar
  */
-@interface SC_TabBar : UIToolbar
+@interface SC_TabBar : UIView
 
 @property (weak, nonatomic) id<SCBottomBarDelegate> barDelegate;
 

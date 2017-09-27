@@ -66,7 +66,6 @@ DEFINE_SINGLETON_FOR_CLASS(SC_TabBar)
 - (void)configView
 {
     self.backgroundColor = WHITECOLOR;
-    self.barTintColor = WHITECOLOR;
     self.frame = CGRectMake(0, SCREEN_HEIGHT - 50, SCREEN_WIDTH, 50);
     self.itemsArray  = [[NSMutableArray alloc]init];
     self.viewsArray  = [[NSMutableArray alloc]init];
